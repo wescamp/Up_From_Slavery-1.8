@@ -1429,7 +1429,7 @@ msgid ""
 "not forgotten Grarivus, and he has not forgotten me. A month has passed "
 "since we settled here; it is past time to determine once and for all which "
 "of us our menn will follow - which of us will be, as Brotus once told me our "
-"ancestors used to say, our Khan. The Khan of the Chainb_NOreaker clan."
+"ancestors used to say, our Khan. The Khan of the Chainbreaker clan."
 msgstr ""
 
 #. [part]
