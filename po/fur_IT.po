@@ -571,7 +571,7 @@ msgstr ""
 #. [message]: id=Grarivus
 #: Up_From_Slavery/scenarios/2_The_Slave_Quarters.cfg:179
 msgid ""
-"Well - all right, then. We'll get to freedom. But no fur_ITther! And then - we "
+"Well - all right, then. We'll get to freedom. But no further! And then - we "
 "fight!"
 msgstr ""
 
